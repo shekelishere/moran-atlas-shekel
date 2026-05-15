@@ -4,6 +4,12 @@
   --color-primary-dark: #4A8B9B;
   --color-secondary: #E8B4A0;
   --color-accent: #C7A98F;
+
+  /* Zone colors */
+  --color-naturopathy: #7BB8C7;
+  --color-naturopathy-dark: #4A8B9B;
+  --color-coaching: #C7A98F;
+  --color-coaching-dark: #9C7D5C;
   --color-bg: #FAF8F4;
   --color-bg-soft: #F2EDE6;
   --color-text: #2D3D45;
