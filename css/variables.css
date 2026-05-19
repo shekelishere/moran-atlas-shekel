@@ -18,13 +18,14 @@
   --color-white: #FFFFFF;
 
   /* Typography */
-  --font-heading: 'Frank Ruhl Libre', Georgia, 'Times New Roman', serif;
+  --font-heading: 'Assistant', 'Heebo', 'Segoe UI', system-ui, sans-serif;
   --font-body: 'Heebo', 'Segoe UI', system-ui, sans-serif;
 
   --fw-light: 300;
   --fw-regular: 400;
   --fw-medium: 500;
   --fw-semibold: 600;
+  --fw-bold: 700;
 
   /* Fluid Type Scale */
   --text-xs:   clamp(0.72rem,  1.4vw, 0.8rem);
