@@ -829,7 +829,7 @@
   top: 50%;
   width: clamp(80px, 11vw, 170px);
   height: auto;
-  opacity: 0.13;
+  opacity: 0.35;
 }
 
 .botanical-decor__leaf--right {
@@ -848,7 +848,7 @@
 
 /* Slightly stronger in hero where it's a feature moment */
 .hero-dual .botanical-decor__leaf {
-  opacity: 0.14;
+  opacity: 0.40;
   width: clamp(90px, 13vw, 190px);
 }
 
